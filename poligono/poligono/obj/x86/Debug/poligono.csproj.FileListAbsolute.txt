@@ -1,0 +1,8 @@
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\poligono\bin\Debug\poligono.exe
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\poligono\bin\Debug\poligono.pdb
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\poligono\obj\x86\Debug\poligono.exe
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\poligono\obj\x86\Debug\poligono.pdb
+C:\Users\Aprendiz\documents\visual studio 2010\Projects\poligono\poligono\obj\x86\Debug\poligono.exe
+C:\Users\Aprendiz\documents\visual studio 2010\Projects\poligono\poligono\obj\x86\Debug\poligono.pdb
+C:\Users\Aprendiz\documents\visual studio 2010\Projects\poligono\poligono\bin\Debug\poligono.exe
+C:\Users\Aprendiz\documents\visual studio 2010\Projects\poligono\poligono\bin\Debug\poligono.pdb

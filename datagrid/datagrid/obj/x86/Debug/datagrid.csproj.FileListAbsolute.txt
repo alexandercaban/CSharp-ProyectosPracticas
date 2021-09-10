@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\datagrid\bin\Debug\datagrid.exe
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\datagrid\bin\Debug\datagrid.pdb
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\datagrid\obj\x86\Debug\datagrid.Form1.resources
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\datagrid\obj\x86\Debug\datagrid.Properties.Resources.resources
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\datagrid\obj\x86\Debug\datagrid.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\datagrid\obj\x86\Debug\datagrid.exe
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\datagrid\obj\x86\Debug\datagrid.pdb
+C:\Users\Aprendiz\documents\visual studio 2010\Projects\datagrid\datagrid\obj\x86\Debug\datagrid.exe
+C:\Users\Aprendiz\documents\visual studio 2010\Projects\datagrid\datagrid\obj\x86\Debug\datagrid.pdb

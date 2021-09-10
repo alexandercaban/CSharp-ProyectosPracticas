@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\operacion\bin\Debug\operacion.exe
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\operacion\bin\Debug\operacion.pdb
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\operacion\obj\x86\Debug\operacion.exe
+C:\Users\Aprendiz\AppData\Local\Temporary Projects\operacion\obj\x86\Debug\operacion.pdb
+C:\Users\Aprendiz\documents\visual studio 2010\Projects\operacion\operacion\obj\x86\Debug\operacion.exe
+C:\Users\Aprendiz\documents\visual studio 2010\Projects\operacion\operacion\obj\x86\Debug\operacion.pdb
+C:\Users\Aprendiz\Documents\Visual Studio 2010\Projects\operacion\operacion\bin\Debug\operacion.exe
+C:\Users\Aprendiz\Documents\Visual Studio 2010\Projects\operacion\operacion\bin\Debug\operacion.pdb
+C:\Users\Aprendiz\Documents\Visual Studio 2010\Projects\operacion\operacion\obj\x86\Debug\operacion.csprojResolveAssemblyReference.cache
